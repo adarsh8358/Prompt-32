@@ -1,0 +1,61 @@
+@media (max-width:600px) {
+
+    .ri-menu-fill{
+        display: block;
+        margin-right: 3%;
+        margin-top: 7.8%;
+        color: whitesmoke;
+    }
+
+    .sn{
+        font-size: 10px;
+        padding: 5px 5px;
+    }
+    
+    .button1{
+        margin-top: 7%;
+        margin-left: 50%;
+    }
+
+    .logo img{
+        height: 60px;
+        margin-top: 20%;
+        margin-left: 20%;
+    }
+
+    h1{
+        font-size: 60px;
+        margin-left: 20%;
+        margin-top: 30%;
+    }
+
+    h2{
+        font-size: 30px;
+        margin-left: 20%;
+        margin-top: -5%;
+    }
+
+    .button2{}
+
+    .s{
+       font-size: 30px;
+       margin-left: 20%;
+       margin-top: 2%;
+    }
+
+    .b11{
+        display: none;
+    }
+
+    .b22{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+}
